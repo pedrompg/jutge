@@ -1,0 +1,10 @@
+---
+problem_id: P61634_ca
+submission_id: S004
+compiler_id: G++
+annotation: 
+time_in: 2012-02-28 22:03:56
+time_out: 2012-02-28 22:04:07
+veredict: AC
+veredict_info: 
+title: Anys de traspàs

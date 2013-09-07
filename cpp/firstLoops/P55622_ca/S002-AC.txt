@@ -1,0 +1,10 @@
+---
+problem_id: P55622_ca
+submission_id: S002
+compiler_id: G++
+annotation: 
+time_in: 2012-03-05 22:18:08
+time_out: 2012-03-05 22:18:17
+veredict: AC
+veredict_info: 
+title: Nombre de dígits (1)

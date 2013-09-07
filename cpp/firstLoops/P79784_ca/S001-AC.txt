@@ -1,0 +1,10 @@
+---
+problem_id: P79784_ca
+submission_id: S001
+compiler_id: G++
+annotation: 
+time_in: 2012-03-05 22:24:58
+time_out: 2012-03-05 22:25:05
+veredict: AC
+veredict_info: 
+title: Moviments en el pla

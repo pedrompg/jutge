@@ -1,0 +1,10 @@
+---
+problem_id: P37469_ca
+submission_id: S001
+compiler_id: G++
+annotation: 
+time_in: 2012-02-28 21:15:00
+time_out: 2012-02-28 21:15:09
+veredict: AC
+veredict_info: 
+title: Descomposició horària (1)
