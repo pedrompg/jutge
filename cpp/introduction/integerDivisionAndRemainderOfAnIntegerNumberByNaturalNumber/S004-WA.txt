@@ -1,0 +1,10 @@
+---
+problem_id: P92351_ca
+submission_id: S004
+compiler_id: G++
+annotation: 
+time_in: 2012-02-23 23:07:52
+time_out: 2012-02-23 23:08:02
+veredict: WA
+veredict_info: 
+title: Divisió entera i residu d'un enter amb un natural

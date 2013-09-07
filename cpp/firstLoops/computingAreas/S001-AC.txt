@@ -1,0 +1,10 @@
+---
+problem_id: P39057_ca
+submission_id: S001
+compiler_id: G++
+annotation: 
+time_in: 2012-03-05 22:33:43
+time_out: 2012-03-05 22:33:52
+veredict: AC
+veredict_info: 
+title: Càlcul d'àrees
