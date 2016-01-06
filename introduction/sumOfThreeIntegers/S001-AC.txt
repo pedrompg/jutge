@@ -1,0 +1,10 @@
+---
+problem_id: P41221_ca
+submission_id: S001
+compiler_id: G++
+annotation: 
+time_in: 2012-02-23 22:10:24
+time_out: 2012-02-23 22:10:36
+veredict: AC
+veredict_info: 
+title: Suma de tres enters

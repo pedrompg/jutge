@@ -1,0 +1,10 @@
+---
+problem_id: P34279_ca
+submission_id: S001
+compiler_id: G++
+annotation: 
+time_in: 2012-02-28 21:19:54
+time_out: 2012-02-28 21:20:16
+veredict: AC
+veredict_info: 
+title: Suma d'un segon

@@ -1,0 +1,10 @@
+---
+problem_id: P98960_ca
+submission_id: S001
+compiler_id: G++
+annotation: 
+time_in: 2012-02-23 23:20:12
+time_out: 2012-02-23 23:20:23
+veredict: WA
+veredict_info: 
+title: Majúscules i minúscules
